@@ -4,8 +4,6 @@
 
 ### :wave: Welcome to kev's github 
 <br/>
-<br/>
-
 
 # 🙋‍♂️ABOUT  
 
@@ -17,12 +15,9 @@
 Nice to meet you.😊
 I am Pilseok Gong(kev), a deveoloper who makes every effort to be the best deveoloper.
 ```
-<br>   
-<br>  
-
+ 
+<br/> 
 # 📚 STACKS  
-
-
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
