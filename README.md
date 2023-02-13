@@ -1,8 +1,10 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KevGitPortfolio&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-<span style="color:red">Hi there I'm Kev</span>
- 
+### :wave: Welcome to kev's github 
+<br/>
+<br/>
 
 
 # 🙋‍♂️ABOUT  
@@ -11,7 +13,7 @@
 ```
 안녕하세요!😊
 최고가 되기 위해 항상 최선을 다하는 개발자, 공필석(kev) 입니다!
- 
+
 Nice to meet you.😊
 I am Pilseok Gong(kev), a deveoloper who makes every effort to be the best deveoloper.
 ```
