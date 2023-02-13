@@ -1,4 +1,5 @@
-<center>가운데</center> 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi error quod libero corporis, iste sit nulla similique enim dignissimos asperiores, illo numquam architecto maxime ab tenetur repellendus, dicta sed officia.
+{: .text-center }
 
 ```안녕하세요```
 <br> 
