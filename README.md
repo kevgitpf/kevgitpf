@@ -6,7 +6,6 @@
 <br>   
 <br>  
 <br>   
-<br> 
 
 # 📚 STACKS  
 
@@ -30,9 +29,6 @@
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
-
-
-
 # 
 <br>   
 <br>
