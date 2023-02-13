@@ -19,7 +19,6 @@ I am Pilseok Gong(kev), a deveoloper who makes every effort to be the best deveo
 ```
 <br>   
 <br>  
-<br>   
 
 # 📚 STACKS  
 
