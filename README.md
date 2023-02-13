@@ -7,7 +7,7 @@
 <br> 
 
 
-# 📚 STACKS </span>  
+# 📚 STACKS  
 
 
 
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
 <br> 
 
-___
+# 
 <br>   
 <br> 
  
