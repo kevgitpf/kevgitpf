@@ -1,15 +1,15 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi error quod libero corporis, iste sit nulla similique enim dignissimos asperiores, illo numquam architecto maxime ab tenetur repellendus, dicta sed officia.
-{: .text-center }
+<div align="center">
+
 
 ```안녕하세요```
 <br> 
 <br> 
 
 
-<div align=center># 📚 STACKS </span>  
-</div>
+# 📚 STACKS </span>  
 
-<div align=center>
+
+
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
