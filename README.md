@@ -1,11 +1,11 @@
-<div align=center><h1>❓ About</h1></span>  
+<div align=center># ❓ About </span>  
 
 ```안녕하세요```
 <br> 
 <br> 
 </div>
 
-<div align=center><h1>📚 STACKS</h1></span>  
+<div align=center># 📚 STACKS </span>  
 </div>
 
 <div align=center>
