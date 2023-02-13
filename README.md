@@ -4,10 +4,10 @@
 
 
 ```
-안녕하세요!
+안녕하세요!😊
 최고가 되기 위해 항상 최선을 다하는 개발자, 공필석 입니다!
  
-Nice to meet you.
+Nice to meet you.😊
 I am Pilseok Gong, a deveoloper who makes every effort to be the best deveoloper.
 ```
 <br>   
