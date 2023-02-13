@@ -1,5 +1,6 @@
-<div align=center> <h2> 📚 STACKS </h2> </div>
-<br> 
+<div align=center>
+## 📚 STACKS 
+</div>
 
 <div align=center>
 
