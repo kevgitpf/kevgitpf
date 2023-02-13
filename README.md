@@ -1,9 +1,9 @@
-<div align=center># ❓ About </span>  
+<center> # ❓ About </center>  
 
 ```안녕하세요```
 <br> 
 <br> 
-</div>
+
 
 <div align=center># 📚 STACKS </span>  
 </div>
