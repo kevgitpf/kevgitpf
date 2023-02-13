@@ -1,4 +1,4 @@
-<center> # ❓ About </center>  
+<center>가운데</center> 
 
 ```안녕하세요```
 <br> 
