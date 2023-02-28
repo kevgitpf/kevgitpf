@@ -21,7 +21,7 @@ I am Pilseok Gong(kev), a deveoloper who makes every effort to be the best deveo
 # 📚 STACKS  
 
 TECHS THAT I'VE USED AT LEAST ONCE
-
+ 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
